@@ -1,10 +1,10 @@
 #################################
 # Etiraf Club Bot #
 #################################
-# Repo Sahibi - aykhan_s
-# Telegram - t.me/aykhan_s
-# Support - t.me/RoBotlarimTg
-# GitHub - aykhan026
+# Repo Sahibi - XTQ_BAKAVOY
+# Telegram - t.me/XTQ_BAKAVOY
+# Support - t.me/YarasaSupport
+# GitHub - XTQ085
 #################################
 #################################
 # Bu repo sıfırdan yığılıb
