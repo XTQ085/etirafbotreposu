@@ -5,10 +5,10 @@
          "telegram",
          "etiraf",
          "group",
-         "aykhan_s",
-         "RoBotlarimTg"
+         "Xtq_bakavoy",
+         "YarasaSupport"
       ],   
-   "repository": "https://github.com/aykhan026/EtirafBot-RoBotlarimTg",
+   "repository": "https://github.com/XTQ085/EtirafBot-RoBotlarimTg",
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
