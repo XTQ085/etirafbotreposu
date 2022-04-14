@@ -4,7 +4,7 @@
 <p align="center">
     Telegramda kolaylıkla kendi grupunuz için itiraf botu yaradin
     <br>
-        <a href="https://t.me/İtirafClubBot">İtirafClubBot</a> |
+        <a href="https://t.me/itiraf_32_bot">İtirafClubBot</a> |
         <a href="https://t.me/YarasaMMC">Destek Kanalı</a> |
         <a href="https://t.me/YarasaSupport">Destek Qrupu</a>
     <br>
